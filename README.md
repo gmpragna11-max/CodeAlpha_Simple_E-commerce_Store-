@@ -91,6 +91,10 @@ build-e-commerce-store/
 
 The main objective of this project is to develop a modern e-commerce interface while demonstrating practical skills in Next.js, React, TypeScript, responsive UI design, and frontend development.
 
+## 🎥 Demo
+
+[View Demo](https://drive.google.com/file/d/1MpztFq48xlYlXPRYJZGA_rUK_PeBkbnT/view?usp=sharing)
+
 ## 👩‍💻 Author
 
 Pragna GM
